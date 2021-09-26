@@ -1,5 +1,4 @@
 # Dynamics of non linear robotic systems. Assignment_3. Ravil Akhmetzhanov
-## 3rd assignment in "Machine Learning" course 
 ## Trajectory planning
 
     There are 3 files in repository: 
