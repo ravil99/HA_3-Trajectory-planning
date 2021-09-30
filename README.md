@@ -1,11 +1,13 @@
 # Dynamics of non linear robotic systems. Assignment_3. Ravil Akhmetzhanov
+## 3dst assignment in "Machine Learning" course 
 ## Trajectory planning
 
-    There are 3 files in repository: 
+    There are 4 files in repository: 
 
 * __HA_3.ipynb__ - Jupyter Notebook document containing the source code.
 * __functions.py__ - this file contains functions for calculating time, trajectories and solving polynomials. 
 * __FK_functions.py__ - this file contains source functions for solving Forward Kinematics. 
+* __Classes,py__ - - this file contains source classes and methods for performing Trajectory Junction.
 * __Home Task3.pdf__ - This is a report for this assignment.
 
 # How to run:
