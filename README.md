@@ -24,5 +24,5 @@ There are 4 files in repository:
 * There are 6 sections, each for every task.
 * They are divided by sub section.
 * Run them one after another.
-* For better understanding accompany notebook with report.
+* For better understanding accompany notebook with report (**Ravil_HA_3.pdf**).
     
