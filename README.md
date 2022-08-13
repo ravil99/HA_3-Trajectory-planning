@@ -1,5 +1,4 @@
-# Dynamics of non linear robotic systems. Assignment_3. Ravil Akhmetzhanov
-## 3rd assignment in "Dynamics of non linear robotic systems" course 
+# Innopolis University. Dynamics of non linear robotic systems. Assignment 3. Ravil Akhmetzhanov.
 ## Trajectory planning
 
 There are 4 files in repository: 
